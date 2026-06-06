@@ -1,4 +1,4 @@
-# AI-Powered Call Center Appointment System
+# Better-call-center-watsapp-appointment-system
 
 A full-stack appointment management system built for call-center operations. The backend exposes a REST API via **FastAPI** backed by **Supabase (PostgreSQL)**, delivers booking confirmations and reminders over **SMS and WhatsApp** through **Twilio**, and optionally generates AI-powered appointment summaries using the **Gemini API**. The frontend is a responsive **React + Vite** dashboard with live analytics.
 
